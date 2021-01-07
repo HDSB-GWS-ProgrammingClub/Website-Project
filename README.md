@@ -6,15 +6,15 @@ Offical Project Start Date:
 January 7th 2021
 
 Project Leads/Managers:
-#Vamiq
-#Callum
-#
+# Vamiq
+# Callum
+# Amogh
 
-
-Programmers:
-#
+Add your name to the list below to participate in our website's develpment
+Programmers: 
+# Adam
 #       
-#           TO BE DECIDED
+#           
 #           
 #
 #
