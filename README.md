@@ -5,7 +5,7 @@
 ## Offical Project Start Date :
 - January 7th 2021
 ####**Currently in**: *Planning phase*
-###### Development is scheduled to begin on: ~~January 11th~~ January 14th
+###### Development is scheduled to begin on: ~~January 11th~~ ~~January 14th~~ January 18th
 
 ## Project Leads/Managers:
 * Vamiq
