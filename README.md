@@ -17,8 +17,8 @@
 **Add your name to the list below to participate in our website's development**
 ## Programmers: 
 * Ibrahim       
-* Evan
+* ~~Evan~~
 * Jason
-*  Adrian
+* Adrian
 *
 *
