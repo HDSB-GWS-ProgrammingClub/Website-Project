@@ -10,20 +10,20 @@ MINIMUM GOAL: January 21st to January 28th => FINISH Welcome Page & Navigation B
 
 >Navigation Bar (HTML & CSS):
 Add your name here if you would like to work on the navigation bar on the home page.
--
+- Adam
 -
 -
 Note: Will likely move to top of page and move welcome text to bottom
 
 >Welcome Page (HTML & CSS):
 Add your name here if you would like to work on the welcome page.
--
+- Adam
 -
 -
 
 >About Page (HTML & CSS):
 Add your name here if you would like to work on the about page.
--
+- Adam
 -
 -
 
