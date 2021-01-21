@@ -6,7 +6,7 @@ Figma Link: https://www.figma.com/file/UQfCYQInXniK3lYvhE7YKo/GWSS-Programming-C
 ^^Refer to Figma for concept of how assets on page should look
 
 Google search for answers first, and if you really need help, ask a club member!
-MINIMUM GOAL: January 21st to January 28th => FINISH Welcome Page
+MINIMUM GOAL: January 21st to January 28th => FINISH Welcome Page & Navigation Bar
 
 >Navigation Bar (HTML & CSS):
 Add your name here if you would like to work on the navigation bar on the home page.
