@@ -1,0 +1,20 @@
+-Adam Devlog Jan.21st, 2021
+    Mr.Brooks approved the addition of the website to the school's website.
+    The website can be linked under the "Clubs and Councils" tab. 
+    It can go under our banner for the club, Jason's already taken care of that part. I like the banner, should probably even add it to the site somewhere.
+
+    Project planning is going to be tackled with a 'learn and live' approach. 
+    This is an opportunity to try github project boards as well as Callum's suggestion to use "Trello" which looks good. 
+    Managing a team for a school project requires some lenience because many members have school commitments.
+    This means that the development plan needs to be detailed enough to hit it's goals but flexible enough to allow some room for setbacks.
+    As of the time of this devlog, summatives are coming up so I expect development to be somewhat consistent so likely only the HTML(content) will be done.
+    Anyone with more knowledge of CSS than me can add the styling in.
+    CSS is the bulk of website code, the main real challange will be the JavaScript footer and the collaboration aspect. 
+    Most high school programmers have no idea how to work on a team, despite the job of a programmer being done mainly as part of development teams. 
+    Learning how to collaborate on team projects is however, one of the main focuses of this club.
+    
+
+    Hosting the website:
+    There's no solid plan for website hosting yet but I am considering a few options.
+    It won't be a problem. 
+    Once I decide on one I'll announce it.
