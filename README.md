@@ -44,7 +44,7 @@ Note: Refer to the footer (https://hackthenorth.com, => bottom of page) for how 
 
 ## Offical Project Start Date :
 - January 7th 2021
-####**Currently in**: *Planning phase*
+####**Currently in**: *Development phase*
 ###### Development is scheduled to begin on: ~~January 11th~~ ~~January 14th~~ ~~January 18th~~ January 21st
 ### Reasons for delay: Design changes/concept rework. 
 
