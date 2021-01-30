@@ -60,5 +60,5 @@ Note: Refer to the footer (https://hackthenorth.com, => bottom of page) for how 
 * ~~Evan~~
 * Jason
 * Adrian
-*
+* Amogh
 *
