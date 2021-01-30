@@ -1,0 +1,72 @@
+/* Setting Background Colour, disabling x-scroll but enabling x-scroll */
+body{
+	overflow-x: hidden;
+	overflow-y: scroll;
+	background: #686DE0;
+}
+
+/* CONTACT US TEXT ELEMENT STYLING */
+.contact_us_text {
+	position: absolute;
+	left: 36%;
+	right: 7.38%;
+	top: 0%;
+	bottom: 0%;
+	font-family: 'Poppins', sans-serif;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 64px;
+	line-height: 96px;
+	/* identical to box height */
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* CONTACT US UNDERLINE ELEMENT STYLING */
+.title_underline{
+	position: absolute;
+	width: 439px;
+	height: 0px;
+	left: 524px;
+	top: 82px;
+	border: 10px solid #000000;
+}
+
+/* CONTACT US PARAGRAPH ELEMENT STYLING */
+.contact_us_paragraph{
+	position: absolute;
+	width: 920px;
+	height: 122px;
+	left: 310px;
+	top: 154px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 48px;
+	color: #FFFFFF;
+}
+
+/* GOOGLE CLASSROOM ICON ELEMENT STYLING */
+.google_classroom_icon{
+	position: absolute;
+	left: 70px;
+	top: 298px;
+}
+
+/* DISCORD ICON ELEMENT STYLING */
+.discord_icon{
+	position: absolute;
+	left: 586px;
+	top: 298px;
+}
+
+/* INSTAGRAM ICON ELEMENT STYLING */
+.instagram_icon{
+	position: absolute;
+	left: 1052px;
+	top: 278px;
+}
+
+
+
