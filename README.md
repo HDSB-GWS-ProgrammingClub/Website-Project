@@ -24,7 +24,7 @@ Add your name here if you would like to work on the welcome page.
 >About Page (HTML & CSS):
 Add your name here if you would like to work on the about page.
 - Adam
--
+- Amogh
 -
 
 >Burger Menu For Mobile Devices (HTML & CSS, & minimal Javascript):
@@ -32,6 +32,12 @@ Add your name here if you would like to work on the burger menu.
 -
 -
 -
+
+> Contact Us Page (HTML & CSS)
+- Amogh
+-
+-
+
 
 >Footer (HTML, CSS, & Javascript):
 Add your name here if you would like to work on the footer.
