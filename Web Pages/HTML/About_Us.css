@@ -1,0 +1,57 @@
+/* Setting Background Colour, disabling x-scroll but enabling x-scroll */
+body{
+	overflow-x: hidden;
+	overflow-y: scroll;
+	background: #686DE0;
+}
+
+/* ABOUT_US class styling */
+.ABOUT_US {
+	position: absolute;
+	font-family: Poppins;
+	width: 343px;
+	height: 96px;
+	left: 67px;
+	top: 66px;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 64px;
+	line-height: 96px;
+	/* identical to box height */
+	color: #FFFFFF;
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* ABOUT_US_TITLE_UNDERLINE class styling */
+.about_us_title_underline{
+	position: absolute;
+	width: 343.01px;
+	height: 0px;
+	left: 51.99px;
+	top: 150.54px;
+	border: 10px solid #000000;
+}
+
+/* ABOUT_US_PARAGRAPH class styling */
+.about_us_paragraph {
+	position: absolute;
+	width: 1253px;
+	height: 166px;
+	left: 51.99px;
+	top: 209px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 48px;
+	color: #FFFFFF;
+}
+
+.about_us_image {
+	position: absolute;	
+	left: 260px;
+	top: 402px;
+}
+
+
+
