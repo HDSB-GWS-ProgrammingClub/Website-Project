@@ -1,0 +1,32 @@
+body {
+    background: cyan;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+.profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    max-width: 150px;
+}
+
+.profile-name {
+    text-align: center;
+    padding: 30px;
+}
+
+.links {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    border-radius: 10px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
