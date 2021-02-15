@@ -14,6 +14,21 @@ body {
     max-width: 150px;
 }
 
+.google-classroom {
+    width: 45px;
+    padding-top: 0;
+}
+
+.discord {
+    height: 45px;
+    padding-top: 0;
+}
+
+.instagram {
+    height: 50px;
+    padding-top: 0;
+}
+
 .profile-name {
     text-align: center;
     padding: 30px;
@@ -28,7 +43,8 @@ body {
     border: 1px solid white;
     border-width: 2px;
     border-radius: 10px;
-    width: 290px;
+    min-width: 200px;
+    max-width: 500px;
     display: block;
     margin-left: auto;
     margin-right: auto;
