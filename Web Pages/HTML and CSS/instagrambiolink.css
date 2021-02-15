@@ -14,19 +14,17 @@ body {
     max-width: 150px;
 }
 
-.google-classroom {
+.icon-picture {
+    text-align: center;
     width: 45px;
-    padding-top: 0;
+    border-radius: 100%;
+    border: 2px solid white;
+    transition: 0.7s ease;
 }
 
-.discord {
-    height: 45px;
-    padding-top: 0;
-}
-
-.instagram {
-    height: 50px;
-    padding-top: 0;
+.icon-picture:hover {
+    color: black;
+    background: white;
 }
 
 .profile-name {
@@ -54,10 +52,10 @@ body {
 a {
     text-decoration: none;
     color: white;
-    transition: color 1s;
+    transition: color 0.7s;
 }
 
-a:hover {
+.links:hover {
     color: black;
     background: white;
 }
