@@ -38,6 +38,9 @@ Add your name here if you would like to work on the burger menu.
 -
 -
 
+> Basically a better linktree replica (HTML & CSS)
+- Jason
+- Go to linktr.ee/gwss_programming_club to see what this is
 
 >Footer (HTML, CSS, & Javascript):
 Add your name here if you would like to work on the footer.
