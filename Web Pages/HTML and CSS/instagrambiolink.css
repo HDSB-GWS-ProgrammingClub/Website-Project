@@ -19,6 +19,7 @@ body {
     width: 70px;
     border-radius: 100%;
     border: 2px solid white;
+    padding: auto;
     transition: 0.7s ease;
 }
 
@@ -27,7 +28,7 @@ body {
     background: white;
     height: 90px;
     width: 90px;
-    margin: 10px;
+    margin: 7px;
 }
 
 .profile-name {
