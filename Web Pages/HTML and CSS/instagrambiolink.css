@@ -15,8 +15,11 @@ body {
 }
 
 .icon-picture {
-    text-align: center;
-    width: 45px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 70px;
+    width: 70px;
     border-radius: 100%;
     border: 2px solid white;
     transition: 0.7s ease;
